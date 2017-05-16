@@ -1,0 +1,5 @@
+Credentials cache: API:22984
+        Principal: mburson@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 24 14:44:17 2016  Oct 25 00:44:17 2016  krbtgt/42.US.ORG@42.US.ORG
